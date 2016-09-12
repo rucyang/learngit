@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git branch test.
 Creating a new branch is quick and simple.
 Testing not fast forward mode.
+Testing global configuration for git color.ui.
